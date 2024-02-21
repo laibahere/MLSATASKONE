@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cloud Chronicle: Navigating Basic from Mainframes to Edge Computing ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Beginner friendly article to help explain Cloud Computing .",
+    url: "https://laibaincyber.medium.com/cloud-chronicles-navigating-the-basics-from-mainframes-to-edge-computing-81b3e4063035",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Deep Learning Internship Github Repoo",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Github repo on what i learn on my internship at ByteWisee",
+    url: "https://github.com/laibahere/Deep-Learning-BWF",
   },
   {
     title: "My Resume Site",
